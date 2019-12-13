@@ -4,6 +4,7 @@ green
 red
 pink
 blue
+INDIGO
 UNICORN
 yellow
 brown
