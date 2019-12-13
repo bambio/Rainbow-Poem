@@ -4,6 +4,7 @@ red
 pink
 blue
 yellow
+brown
 white
 black
 my rainbow colors
