@@ -1,0 +1,8 @@
+purple
+green
+red
+blue
+yellow
+white
+black
+my rainbow colors
